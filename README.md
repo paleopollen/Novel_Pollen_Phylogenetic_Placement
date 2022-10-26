@@ -1,4 +1,4 @@
-# Phylogenetically Informed Pollen Pipeline
+# Phylogenetically Informed Pollen Classification
 Code for a variety of pollen recognition tasks, including classification, novelty detection, and phylogenetic placement. 
 
 # Abstract
