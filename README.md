@@ -1,4 +1,4 @@
-# Phylogenetically Informed Pollen Classification
+# Deep learning approaches to the phylogenetic placement of novel fossil pollen
 Code for a variety of pollen recognition tasks, including classification, novelty detection, and phylogenetic placement. 
 
 # Abstract
