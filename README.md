@@ -13,8 +13,8 @@ Pollen features have limited homology across clades, which makes interpretating 
 
 # Main Structure 
 There are five folders in this repository:
-1. Classification pipeline (training and validation)
-2. Novelty detection (based on the model's uncertainty when encountering a new pollen specimen) and optimal threshold selection
-3. Phylogenetic placement (training and evaluation) using pseudo-novel taxa 
+1. Training and validation based on three modalities: maximum intensity projection (MIP) images, cross-sectional images, and patches
+2. Novelty detection (based on the model's uncertainty when encountering an unknown pollen specimen) and optimal threshold selection
+3. Phylogenetic placement (training and evaluation) on a simulated dataset, using pseudo-novel taxa 
 4. Fossil analaysis 
 5. Morphological visualization
