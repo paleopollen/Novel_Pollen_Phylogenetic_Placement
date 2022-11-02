@@ -3,6 +3,7 @@ Code for a variety of pollen recognition tasks, including classification, novelt
 
 <img  align="center" src="https://github.com/madaime2/Novel_Pollen_Phylogenetic_Placement/blob/main/Updated_Flowchart_Pipeline_FinalOct27.png" data-canonical-src="https://github.com/madaime2/Novel_Pollen_Phylogenetic_Placement/blob/main/Updated_Flowchart_Pipeline_FinalOct27.png" width="375" height="450" />
 
+<center><img src="https://github.com/madaime2/Novel_Pollen_Phylogenetic_Placement/blob/main/Updated_Flowchart_Pipeline_FinalOct27.png" alt="what image shows" height="150" width="200"></center>
 
 # Add all figures, 
 
