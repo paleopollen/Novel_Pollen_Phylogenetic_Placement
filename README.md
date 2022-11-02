@@ -1,7 +1,8 @@
 # Deep learning approaches to the phylogenetic placement of novel fossil pollen
 Code for a variety of pollen recognition tasks, including classification, novelty detection, and phylogenetic placement on a reference evolutionary tree. 
 
-<img src="https://github.com/madaime2/Novel_Pollen_Phylogenetic_Placement/blob/main/Updated_Flowchart_Pipeline_FinalOct27.png" data-canonical-src="https://github.com/madaime2/Novel_Pollen_Phylogenetic_Placement/blob/main/Updated_Flowchart_Pipeline_FinalOct27.png" width="375" height="450" />
+<img  align="center" src="https://github.com/madaime2/Novel_Pollen_Phylogenetic_Placement/blob/main/Updated_Flowchart_Pipeline_FinalOct27.png" data-canonical-src="https://github.com/madaime2/Novel_Pollen_Phylogenetic_Placement/blob/main/Updated_Flowchart_Pipeline_FinalOct27.png" width="375" height="450" />
+
 
 # Add all figures, 
 
