@@ -22,4 +22,4 @@ There are five folders in this repository:
 5. Morphological visualization.
 
 # Hardware
-Experiments were conducted either on a Jupyter Notebook (using an Nvidia GeForce RTX3090 card with 24 GB of memory), or on Google Colab (using an Nvidia A100 SXM4 card with 40 GB of memory). 
+Experiments were conducted either on a Jupyter Notebook (using an NVIDIA GeForce RTX3090 card with 24 GB of memory), or on Google Colab (using an NVIDIA A100 SXM4 card with 40 GB of memory). 
