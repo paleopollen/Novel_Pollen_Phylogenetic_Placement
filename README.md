@@ -6,7 +6,7 @@ Code for a variety of pollen recognition tasks, including classification, novelt
 </p>
 
 <p align="center">
-  <img  align="center" src="https://github.com/madaime2/Novel_Pollen_Phylogenetic_Placement" data-canonical-src="https://github.com/madaime2/Novel_Pollen_Phylogenetic_Placement" />
+  <img  align="center" src="https://github.com/madaime2/Novel_Pollen_Phylogenetic_Placement/blob/main/Figs/Novelty_Placement_Combined_Figures.png" data-canonical-src="https://github.com/madaime2/Novel_Pollen_Phylogenetic_Placement/blob/main/Figs/Novelty_Placement_Combined_Figures.png" />
 </p>
 
 # Abstract
