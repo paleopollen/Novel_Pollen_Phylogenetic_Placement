@@ -38,4 +38,4 @@ There are five folders in this repository:
 5. Morphological visualizations.
 
 # Hardware Specifications
-Experiments were conducted either on a Jupyter Notebook (using an NVIDIA GeForce RTX3090 card with 24 GB of memory), or on Google Colab (using an NVIDIA A100 SXM4 card with 40 GB of memory). 
+Experiments were conducted on an NVIDIA GeForce RTX3090 GPU card with 24 GB of memory and an NVIDIA A100 SXM4 GPU card with 40 GB of memory. We used the PyTorch toolbox for training neural networks.
