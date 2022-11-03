@@ -38,6 +38,6 @@ There are five folders in this repository:
 5. Morphological visualizations.
 
 # Hardware Specifications
-Experiments were conducted on an NVIDIA GeForce RTX3090 GPU card with 24 GB of memory and an NVIDIA A100 SXM4 card with 40 GB of memory. We used the PyTorch toolbox for training neural networks.
+Experiments were conducted on an NVIDIA GeForce RTX3090 GPU card with 24 GB of memory and an NVIDIA A100 SXM4 card with 40 GB of memory. We used the [PyTorch toolbox](https://pytorch.org/) for training neural networks.
 
-[I'm an inline-style link](https://pytorch.org/)
+
