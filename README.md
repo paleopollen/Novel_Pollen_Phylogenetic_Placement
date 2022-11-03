@@ -19,7 +19,7 @@ There are five folders in this repository:
 2. Novelty detection experiment (based on the model's uncertainty when encountering an unknown pollen specimen) and optimal threshold selection.
 3. Phylogenetic placement simulation (training and evaluation) using pseudo-novel taxa.
 4. Fossil analaysis.
-5. Morphological visualization.
+5. Morphological visualizations.
 
 # Hardware Specifications
 Experiments were conducted either on a Jupyter Notebook (using an NVIDIA GeForce RTX3090 card with 24 GB of memory), or on Google Colab (using an NVIDIA A100 SXM4 card with 40 GB of memory). 
