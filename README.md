@@ -2,7 +2,11 @@
 Code for a variety of pollen recognition tasks, including classification, novelty detection, and phylogenetic placement on a reference evolutionary tree. 
 
 <p align="center">
-  <img  align="center" src="https://github.com/madaime2/Novel_Pollen_Phylogenetic_Placement/blob/main/Figs/Updated_Flowchart_Pipeline_FinalOct27.png" data-canonical-src="https://github.com/madaime2/Novel_Pollen_Phylogenetic_Placement/blob/main/Figs/Updated_Flowchart_Pipeline_FinalOct27.png" width="375" height="450" />
+  <img  align="https://github.com/madaime2/Novel_Pollen_Phylogenetic_Placement/blob/main/Figs/Pipeline_MLP_Combined.png" data-canonical-src="https://github.com/madaime2/Novel_Pollen_Phylogenetic_Placement/blob/main/Figs/Pipeline_MLP_Combined.png" />
+</p>
+
+<p align="center">
+  <img  align="https://github.com/madaime2/Novel_Pollen_Phylogenetic_Placement/blob/main/Figs/Confusion_Matrices_No_tilt_Arial.png" data-canonical-src="https://github.com/madaime2/Novel_Pollen_Phylogenetic_Placement/blob/main/Figs/Confusion_Matrices_No_tilt_Arial.png" />
 </p>
 
 <p align="center">
