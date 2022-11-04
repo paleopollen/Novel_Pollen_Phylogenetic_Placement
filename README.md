@@ -29,5 +29,3 @@ There are five folders in this repository:
 
 # Hardware Specifications
 Experiments were conducted on an NVIDIA GeForce RTX3090 GPU card with 24 GB of memory and an NVIDIA A100 SXM4 card with 40 GB of memory. We used the [PyTorch toolbox](https://pytorch.org/) for training neural networks.
-
-
