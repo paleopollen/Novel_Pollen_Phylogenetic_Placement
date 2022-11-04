@@ -18,11 +18,11 @@ Pollen features have limited homology across clades, which makes interpretating 
 
 # Main Structure 
 There are five folders in this repository:
-1. Training and classification: Scripts for training the three main models described in the paper using three modalities: maximum intensity projection (MIP) images, cross-sectional images, and patches.
-2. Novelty detection experiment: Script for detecting novel pollen morphotypes, based on the model's uncertainty (inferred from Shannon entropy) when encountering an unknown pollen specimen. The folder also contains a script for computing the optimal entropy threshold.
-3. Phylogenetic placement experiment: Scripts for training and evaluating phylogenetically-informed neural networks. The experiment is conducted using a simulated dataset with pseudo-novel taxa, which are placed on a reference phylogenetic tree. 
-4. Fossil analaysis: Script for placing novel fossil types on a reference phylogenetic tree. 
-5. Morphological visualization: Script for visualizing the most phylogenetically informative cross-sectional images and patches.
+1. [Training and classification](https://github.com/madaime2/Novel_Pollen_Phylogenetic_Placement/tree/main/00_Training_and_Classification): Scripts for training the three main models described in the paper using three modalities: maximum intensity projection (MIP) images, cross-sectional images, and patches.
+2. [Novelty detection experiment](https://github.com/madaime2/Novel_Pollen_Phylogenetic_Placement/tree/main/01_Novelty_Detection_Experiment): Script for detecting novel pollen morphotypes, based on the model's uncertainty (inferred from Shannon entropy) when encountering an unknown pollen specimen. The folder also contains a script for computing the optimal entropy threshold.
+3. [Phylogenetic placement experiment](https://github.com/madaime2/Novel_Pollen_Phylogenetic_Placement/tree/main/02_Phylogenetic_Placement_Experiment): Scripts for training and evaluating phylogenetically-informed neural networks. The experiment is conducted using a simulated dataset with pseudo-novel taxa, which are placed on a reference phylogenetic tree. 
+4. [Fossil analysis](https://github.com/madaime2/Novel_Pollen_Phylogenetic_Placement/tree/main/03_Fossil_Analysis): Script for placing novel fossil types on a reference phylogenetic tree. 
+5. [Morphological visualization](https://github.com/madaime2/Novel_Pollen_Phylogenetic_Placement/tree/main/04_Morphological_Visualization): Script for visualizing the most phylogenetically informative cross-sectional images and patches.
 
 # Hardware Specifications
 Experiments were conducted on an NVIDIA GeForce RTX3090 GPU card with 24 GB of memory and an NVIDIA A100 SXM4 card with 40 GB of memory. We used the [PyTorch toolbox](https://pytorch.org/) for training neural networks.
