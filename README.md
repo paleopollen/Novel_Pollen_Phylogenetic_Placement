@@ -5,7 +5,7 @@ Code for a variety of pollen recognition tasks, including classification, novelt
   <img src="https://github.com/madaime2/Novel_Pollen_Phylogenetic_Placement/blob/main/Figs/Pipeline_MLP_Combined.png" width = 950 title="hover text">
   
 <p align="center">
-  <img src="https://github.com/madaime2/Novel_Pollen_Phylogenetic_Placement/blob/main/Figs/Combined_Confusion_Matrices_Bombac_Podocarp_Github.png" width = 950 title="hover text">
+  <img src="https://github.com/madaime2/Novel_Pollen_Phylogenetic_Placement/blob/main/Figs/Combined_Confusion_Matrices_Bombac_Podocarp.png" width = 950 title="hover text">
   
 <p align="center">
   <img src="https://github.com/madaime2/Novel_Pollen_Phylogenetic_Placement/blob/main/Figs/Novelty_Placement_Combined_Figures_F_Sp.png" title="hover text">
