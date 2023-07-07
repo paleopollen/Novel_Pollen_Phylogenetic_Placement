@@ -1,4 +1,4 @@
-# Deep learning approaches to the phylogenetic placement of novel fossil pollen
+# Deep learning approaches to the phylogenetic placement of extinct pollen morphotypes
 Code for a variety of pollen recognition tasks, including classification, novelty detection, and phylogenetic placement in a reference evolutionary tree. 
 
 <p align="center">
