@@ -5,10 +5,10 @@ Code for a variety of pollen recognition tasks, including classification, novelt
   <img src="https://github.com/paleopollen/Novel_Pollen_Phylogenetic_Placement/blob/main/Figures/Pipeline_and_MLP.png" width = 950 title="hover text">
   
 <p align="center">
-  <img src="https://github.com/paleopollen/Novel_Pollen_Phylogenetic_Placement/blob/main/Figures/Podocarp_Modern_and_Fossil.png" width = 950 title="hover text">
+  <img src="https://github.com/paleopollen/Novel_Pollen_Phylogenetic_Placement/blob/main/Figures/Podocarp_Modern_and_Fossil.png" width = 450 title="hover text">
   
 <p align="center">
-  <img src="https://github.com/paleopollen/Novel_Pollen_Phylogenetic_Placement/blob/main/Figures/Confusion_Matrix_Podocarpus.png" width = 950 title="hover text">
+  <img src="https://github.com/paleopollen/Novel_Pollen_Phylogenetic_Placement/blob/main/Figures/Confusion_Matrix_Podocarpus.png" width = 450 title="hover text">
   
 <p align="center">
   <img src="https://github.com/paleopollen/Novel_Pollen_Phylogenetic_Placement/blob/main/Figures/ROC_and_MCC_Podocarpus.png" title="hover text">
