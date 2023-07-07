@@ -5,10 +5,13 @@ Code for a variety of pollen recognition tasks, including classification, novelt
   <img src="https://github.com/paleopollen/Novel_Pollen_Phylogenetic_Placement/blob/main/Figures/Pipeline_and_MLP.png" width = 950 title="hover text">
   
 <p align="center">
-  <img src="https://github.com/madaime2/Novel_Pollen_Phylogenetic_Placement/blob/main/Figs/Confusion_Matrices_Averaged_Fused_Models_Arial_F.png" width = 950 title="hover text">
+  <img src="https://github.com/paleopollen/Novel_Pollen_Phylogenetic_Placement/blob/main/Figures/Podocarp_Modern_and_Fossil.png" width = 950 title="hover text">
   
 <p align="center">
-  <img src="https://github.com/madaime2/Novel_Pollen_Phylogenetic_Placement/blob/main/Figs/ROC_Curves_Error_Matrices_Trees.png" title="hover text">
+  <img src="https://github.com/paleopollen/Novel_Pollen_Phylogenetic_Placement/blob/main/Figures/Confusion_Matrix_Podocarpus.png" width = 950 title="hover text">
+  
+<p align="center">
+  <img src="https://github.com/paleopollen/Novel_Pollen_Phylogenetic_Placement/blob/main/Figures/ROC_and_MCC_Podocarpus.png" title="hover text">
 
 # Abstract
 The phylogenetic interpretation of pollen morphology is limited by our inability to recognize the evolutionary history embedded in pollen features. Deep learning offers tools for connecting morphology to phylogeny. Using neural networks, we developed an explicitly phylogenetic toolkit for analyzing the overall shape, internal structure, and texture of a pollen grain. Our analysis pipeline classifies pollen specimens and determines whether a testing specimen is from any novel species based on uncertainty estimate. Features of novel specimens are passed to a multi-layer perceptron network trained to transform these features into predicted phylogenetic distances from known taxa. We used these predicted distances to place specimens in a phylogeny using Bayesian inference. We trained and evaluated our models using optical superresolution micrographs of 30 _Podocarpus_ species. We then used trained models to place nine fossil _Podocarpidites_ specimens within the phylogeny. We demonstrate that the phylogenetic history encoded in pollen morphology can be recognized by neural networks and that deep-learned features can be used in phylogenetic placement. Our approach makes extinction and speciation events that would otherwise be masked by the limited taxonomic resolution of the fossil pollen record visible to palynological analysis.
